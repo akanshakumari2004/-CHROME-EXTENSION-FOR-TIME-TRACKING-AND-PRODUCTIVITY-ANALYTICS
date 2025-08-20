@@ -108,3 +108,5 @@ Add authentication to view personal reports securely.
 Use CSS to style the dashboard for better readability.
 
 Use AJAX or WebSockets for real-time updates without refreshing the page.
+
+OUTPUT: <img width="400" height="340" alt="Image" src="https://github.com/user-attachments/assets/7d3ff48e-a46e-43eb-9269-a0e1e1a814e9" />
